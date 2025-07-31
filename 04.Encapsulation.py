@@ -1,6 +1,7 @@
 '''
 4.Encapsulation
-#Encapsulation means hiding internal details of a class and only exposing what’s necessary. It helps to protect important data from being changed directly and keeps the code secure and organized.
+#The bundling of data and the methods that operate on that data within a single unit (the object), and restricting direct access to the data from outside the object.
+This promotes data hiding and protects the internal state of an object.
 
 Example: Locker PIN
 (Your locker has a PIN that only you can change using buttons.
