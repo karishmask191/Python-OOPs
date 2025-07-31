@@ -30,3 +30,4 @@ sms.send_message("Your OTP is 1234.")
 Output:
  Sending message: Welcome to our platform!
  Sending message: Your OTP is 1234.
+'''
